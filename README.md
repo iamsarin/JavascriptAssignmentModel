@@ -65,14 +65,13 @@ Hungarian.run(
 * สุปัญญา ไชยชาญ, การวิเคราะห์เชิงปริมาณ : ฉบับสมบูรณ์ พิมพ์ครั้งที่ 5. กรุงเทพ ฯ : พี.เอ. ลีฟวิ่ง, 2550
 
 ### Website
-* [The assignment problem] (http://www.hungarianalgorithm.com/assignmentproblem.php)
-* [The Hungarian algorithm] (http://www.hungarianalgorithm.com/hungarianalgorithm.php)
-* [Hungarian algorithm O(N^3)] (https://pastebin.com/tn6v0HDr)
-* [Kuhn-Munkres (Hungarian) Algorithm in C++] (https://github.com/saebyn/munkres-cpp)
-* [A C implementation of the Hungarian Method] (http://robotics.usc.edu/~gerkey/tools/hungarian.html)
-* [Munkres (aka Hungarian) algorithm for JS] (https://github.com/addaleax/munkres-js)
-* [การมอบหมายงาน (The Assignment Method)] (http://oservice.skru.ac.th/ebookft/255/chapter7.pdf)
-* [ปัญหาการมอบหมายงาน Assignment Problem] (http://courseware.payap.ac.th/docu/cs352/PDF_file/Chapter04.pdf)
-* [บทที่ 2 ปัญหาการมอบหมายงาน (Assignment Problem)] (http://www.ubu.ac.th/~pitakaso/1302476/new_doc/ch02_s.pdf)
-* [นางสาวกัลยา เหมกรณ์ การแก้ปัญหามอบหมายงานให้เครื่องจักรที่มีหลายวัตถุประสงค์
-* [ส าหรับโรงงานผลิตชิ้นส่วนอิเล็กทรอนิกส์ด้วยวิธีฟัซซี่ ] (http://digi.library.tu.ac.th/thesis/en/0592/01title-illustrations.pdf)
+* [The assignment problem](http://www.hungarianalgorithm.com/assignmentproblem.php)
+* [The Hungarian algorithm](http://www.hungarianalgorithm.com/hungarianalgorithm.php)
+* [Hungarian algorithm O(N^3)](https://pastebin.com/tn6v0HDr)
+* [Kuhn-Munkres (Hungarian) Algorithm in C++](https://github.com/saebyn/munkres-cpp)
+* [A C implementation of the Hungarian Method](http://robotics.usc.edu/~gerkey/tools/hungarian.html)
+* [Munkres (aka Hungarian) algorithm for JS](https://github.com/addaleax/munkres-js)
+* [การมอบหมายงาน (The Assignment Method)](http://oservice.skru.ac.th/ebookft/255/chapter7.pdf)
+* [ปัญหาการมอบหมายงาน Assignment Problem](http://courseware.payap.ac.th/docu/cs352/PDF_file/Chapter04.pdf)
+* [บทที่ 2 ปัญหาการมอบหมายงาน (Assignment Problem)](http://www.ubu.ac.th/~pitakaso/1302476/new_doc/ch02_s.pdf)
+* [นางสาวกัลยา เหมกรณ์ การแก้ปัญหามอบหมายงานให้เครื่องจักรที่มีหลายวัตถุประสงค์ สำหรับโรงงานผลิตชิ้นส่วนอิเล็กทรอนิกส์ด้วยวิธีฟัซซี่](http://digi.library.tu.ac.th/thesis/en/0592/01title-illustrations.pdf)
